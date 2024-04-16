@@ -2,3 +2,17 @@
   margin: 0;
   padding: 0;
 }
+h1{
+  color: blue;
+  font-size: 10rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+p{
+  font-size: 2rem;
+}
+.btn{
+  background-color:orange;
+  border: none;
+  border-radius: 0.5rem;
+  color: blue;
+}
