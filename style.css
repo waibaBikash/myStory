@@ -4,11 +4,11 @@
 }
 h1{
   color: blue;
-  font-size: 10rem;
+  font-size: 8rem;
   font-family: 'Times New Roman', Times, serif;
 }
 p{
-  font-size: 2rem;
+  font-size: 1rem;
 }
 .btn{
   background-color:orange;
@@ -16,4 +16,7 @@ p{
   border-radius: 0.5rem;
   color: blue;
   
+}
+img{
+  height: 500px;
 }
