@@ -1,14 +1,17 @@
 *{
   margin: 0;
   padding: 0;
+  margin-left: 0.7rem;
 }
 h1{
   color: blue;
   font-size: 8rem;
   font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 1rem;
 }
 p{
   font-size: 1rem;
+  margin-bottom: 1rem;
 }
 .btn{
   background-color:orange;
