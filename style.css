@@ -46,8 +46,8 @@ section {
   margin-bottom: 20px;
 }
 
-#contact form {
-  display: inline-flex;
+#contact form .my-form{
+  display: flex;
   flex-direction: column;
   margin-top: 20px;
 }
@@ -74,4 +74,12 @@ footer {
   border: none;
   padding: 4px;
   border-radius: 1rem;
+}
+.container{
+  display: flex;
+  justify-content: space-between
+
+}
+.container img{
+  height: 300px;
 }
