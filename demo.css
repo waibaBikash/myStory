@@ -1,0 +1,61 @@
+/* Login form styles */
+
+#login-form {
+  width: 300px;
+  margin: 0 auto; /* Center the form horizontally */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f1f1f1;
+}
+
+#login-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#login-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#login-form input[type="text"],
+#login-form input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.checkbox-container input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#login-form button {
+  background-color: #4CAF50; /* Green color */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  width: 100%; /* Stretch button to full width */
+}
+
+#login-form button:hover {
+  opacity: 0.8; /* Slight opacity change on hover */
+}
+
+#login-form a {
+  color: #00bcd4; /* Blue color for the link */
+  text-decoration: none;
+  display: block; /* Display the link on a new line */
+  margin-top: 10px;
+  text-align: center;
+}
